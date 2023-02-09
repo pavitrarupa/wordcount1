@@ -1,0 +1,12 @@
+*{background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(171,102,255,1) 0%, rgba(116,182,247,1) 90% );
+}
+h1{
+    text-align: center;
+    color: azure;
+    padding-top: 10%;
+    font-style:unset;
+    
+}
+P,form{
+    text-align: center;
+}
